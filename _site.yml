@@ -1,0 +1,20 @@
+name: "Faith Parsons"
+output_dir: "."
+navbar:
+  title: "Main"
+  right:
+    - icon: fa-female
+      text: About
+      href: about.html
+    - icon: fa-file-text
+      text: CV
+      href: files/ParsonsFaithE CV 201706.pdf
+    - icon: fa-envelope fa-lg
+      href: mailto:<faithparsons@gmail.com>
+    - icon: fa fa-linkedin
+      href: http://www.linkedin.com/in/faithparsons
+    - icon: fa-github fa-lg
+      href: http://github.com/faithparsons/
+output:
+  html_document:
+    theme: cerulean

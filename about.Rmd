@@ -1,0 +1,57 @@
+---
+title: "It's all about keeping the Faith"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+I wear many hats, and most of them have data tags.
+
+
+
+
+### Data Manager
+
+I am a Data Manager at the Center for Behavioral Cardiovascular Health [CBCH](http://www.columbiacardiology.org/research/center-behavioral-cardiovascular-health). I work closely with the Data Team to design and build web-based data entry applications for many of our research studies, run regular data QA checks, create key variables for analysis, perform analysis and data visualization. Some of the studies I have worked on include:
+
+*   A clinical trial comparing depression treatments after heart attack [CODIACS](https://clinicaltrials.gov/ct2/show/NCT01032018) 
+
+*   A clinical trial assessing the quality of life of patients after heart attack [CODIACS QoL](https://clinicaltrials.gov/ct2/show/NCT01993017)
+
+*   Epidemiological studies on patients who go to the Emergency Room with symptoms of heart attack or stroke
+
+*   An N-of-1 trial on the [Ecological Link of Psychosocial Stress to Exercise: Personalized Pathways](https://osf.io/kmszn/)
+
+*   [Study of the effects of negative emotions on endothelial functions](https://clinicaltrials.gov/ct2/show/NCT01909895)  
+
+### Biostatistics Graduate Student
+
+I am also a student in the MS Biostatistics (Theory and Methods track) program at the [Mailman School of Public Health](https://www.mailman.columbia.edu/become-student/departments/biostatistics) and my adviser is [Prof. Christine Mauro](https://www.mailman.columbia.edu/people/our-faculty/cmm2212). I am very excited to be in my final semester, and look forward to finishing the program in December.
+
+
+### Statistical Consultant
+
+I am a lifelong learner, and by virtue of being a statistical consultant, I get to work with and learn from a diverse clientele with diverse datasets.  I have been a **Top-Rated Freelancer** on [Upwork.Com](https://www.upwork.com/o/profiles/users/_~011c2117ecbd36eeca/) and some of those projects I have worked on include: 
+
+*   Airline noise in select Los Angeles neighborhoods
+
+*   Socio-demographic, behavioral and biological factors affecting the health of African American women
+
+*   Low English proficiency (LEP) and dropout rates among Hispanic elementary, middle school and high school students
+
+*   Effect of cultural and behavioral factors on cervical cancer screening among Arab and Hispanic women
+
+*   Perceptions and experiences of intimate partner violence among Hispanic college students 
+
+*   Horse and jockey characteristics and race ranking
+
+*   Physical, economic, and regulatory factors affecting real estate prices 
+
+### Scientist's Wife
+
+My husband works on many cool projects in [Wildlife Conservation Biology](https://studentscienceprojects.wordpress.com/) and Chemical Ecology. I enjoy assisting him in field data collection -- some of his sites were in remote mining areas in the Australian outback, while others are in the high altitude Himalayas. We also regularly plan and discuss experimental designs, data and stats. We have already published two peer-reviewed papers together and have others in progress: 
+
+*   [The discovery of the 'transient' male Tibetan wild ass: Alternative 'sneaky' mating tactics in a wild equid?](http://booksandjournals.brillonline.com/content/journals/10.1163/1568539x-00003407)
+
+*   [The temporal multimodal influence of optical and auditory cues on the repellent behaviour of ring-billed gulls (Larus delewarensis)](http://www.bioone.org/doi/abs/10.1071/WR15001)
